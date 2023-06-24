@@ -1,1 +1,2 @@
-# SystemProgramming
+# 경북대학교 컴퓨터학부
+## 시스템프로그래밍 ELEC0462-003
